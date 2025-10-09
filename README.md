@@ -6,6 +6,10 @@ Um convite ao meu projeto pessoal
 
 ---
 
+##Acompanhe a Saga em meu canal no [youtube](https://www.youtube.com/@RubensAnjosRASS)
+
+Primeiro episodio da saga: [criando a planinha](https://youtu.be/04TjaMBs4-k?si=LDjjxbegCXsmL2-i).
+
 ##  Objetivo
 
 O projeto nasceu da ideia de **começar do jeito mais simples possível**:  
